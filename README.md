@@ -11,7 +11,8 @@ I. [SwiftUI by Apple Developer](https://developer.apple.com/tutorials/swiftui/)
 
 II. [Paul Hudson on Hacking With Swift](https://www.hackingwithswift.com/)
   1. [First look at SwiftUI](https://www.hackingwithswift.com/articles/191/swiftui-lets-us-build-declarative-user-interfaces-in-swift)
-  2. [Quick Start Guide on SwiftUI by Hacking With Swift](https://www.hackingwithswift.com/quick-start/swiftui)
+  2. [Getting Started with SwiftUI](https://www.hackingwithswift.com/articles/194/get-started-with-swiftui)
+  3. [Quick Start Guide on SwiftUI by Hacking With Swift](https://www.hackingwithswift.com/quick-start/swiftui)
 
 III. [SwiftUI Tutorials by Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA/)
   1. [SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc)
