@@ -25,6 +25,10 @@ V. [SwiftUI Tutorials by Kilo Loco](https://www.youtube.com/channel/UCv75sKQFFIe
   2. [Intro To SwiftUI: Simple State Management](https://www.youtube.com/watch?v=AWPiup9fE2c)
   3. [Before You Learn SwiftUI, You Need To Hear This...](https://www.youtube.com/watch?v=H9XyZ_F1tPI)
 
-VI. [SwiftUI Beginner Tutorial On iOS 13 by Devslopes](https://www.youtube.com/watch?v=wwDAvq9MZlQ) 
+VI. [SwiftUI by Rebeloper](https://www.youtube.com/channel/UCK88iDIf2V6w68WvC-k7jcg/)
+  1. [SwiftUI = Mind-blow | WWDC iOS developer reaction](https://www.youtube.com/watch?v=fbuOxKqC5wQ)
+  2. [https://www.youtube.com/watch?v=AKHsFNtANes](https://www.youtube.com/watch?v=AKHsFNtANes)
 
-VII. [Simple SwiftUI App by Brian Advent](https://www.youtube.com/watch?v=Pfw7zWxchQc) 
+VII. [SwiftUI Beginner Tutorial On iOS 13 by Devslopes](https://www.youtube.com/watch?v=wwDAvq9MZlQ) 
+
+VIII. [Simple SwiftUI App by Brian Advent](https://www.youtube.com/watch?v=Pfw7zWxchQc)  
