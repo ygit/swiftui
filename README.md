@@ -19,4 +19,9 @@ III. [SwiftUI Tutorials by Lets Build That App](https://www.youtube.com/channel/
   3. [SwiftUI Basics: Dynamic Lists, HStack VStack, Images with Circle Clipped Stroke Overlays](https://www.youtube.com/watch?v=bz6GTYaIQXU)
   4. [SwiftUI: Facebook Complex Layouts - Horizontal Scroll View](https://www.youtube.com/watch?v=7QgPpvqTfeo)
      
-IV. [SwiftUI Beginner Tutorial On iOS 13 by Devslopes](https://www.youtube.com/watch?v=wwDAvq9MZlQ)
+IV. [SwiftUI Tutorials by Code With Chris](https://www.youtube.com/user/CodeWithChris/)
+
+  1. [SwiftUI Basics Tutorial](https://www.youtube.com/watch?v=IIDiqgdn2yo)
+  2. [SwiftUI App Tutorial - Lists, Navigation and JSON Data](https://www.youtube.com/watch?v=wbFuAs_UNYg)
+  
+V. [SwiftUI Beginner Tutorial On iOS 13 by Devslopes](https://www.youtube.com/watch?v=wwDAvq9MZlQ)
