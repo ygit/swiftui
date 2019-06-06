@@ -27,7 +27,7 @@ V. [SwiftUI Tutorials by Kilo Loco](https://www.youtube.com/channel/UCv75sKQFFIe
 
 VI. [SwiftUI by Rebeloper](https://www.youtube.com/channel/UCK88iDIf2V6w68WvC-k7jcg/)
   1. [SwiftUI = Mind-blow | WWDC iOS developer reaction](https://www.youtube.com/watch?v=fbuOxKqC5wQ)
-  2. [https://www.youtube.com/watch?v=AKHsFNtANes](https://www.youtube.com/watch?v=AKHsFNtANes)
+  2. [SwiftUI - DON'T LEARN IT (JUST YET)](https://www.youtube.com/watch?v=AKHsFNtANes)
 
 VII. [SwiftUI Beginner Tutorial On iOS 13 by Devslopes](https://www.youtube.com/watch?v=wwDAvq9MZlQ) 
 
