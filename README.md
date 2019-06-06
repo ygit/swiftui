@@ -38,3 +38,5 @@ VII. [SwiftUI Beginner Tutorial On iOS 13 by Devslopes](https://www.youtube.com/
 VIII. [Simple SwiftUI App by Brian Advent](https://www.youtube.com/watch?v=Pfw7zWxchQc)  
 
 IX. [An example to-do list app using SwiftUI](https://github.com/devxoul/SwiftUITodo)
+
+X. [Inside SwiftUI's Declarative Syntax's Compiler Magic](https://swiftrocks.com/inside-swiftui-compiler-magic.html)
