@@ -4,7 +4,8 @@ A collaborative list of awesome SwiftUI resources. Feel free to contribute!
 
 I. [SwiftUI by Apple Developer](https://developer.apple.com/tutorials/swiftui/)
   1. [Apple Developer Tutorial on SwiftUI](https://developer.apple.com/xcode/swiftui/)
-  2. [SwiftUI Essentials WWDC Video](https://developer.apple.com/videos/play/wwdc2019/216/)
+  2. [Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204/)
+  3. [SwiftUI Essentials WWDC Video](https://developer.apple.com/videos/play/wwdc2019/216/)
 
 II. [Paul Hudson on Hacking With Swift](https://www.hackingwithswift.com/)
   1. [First look at SwiftUI](https://www.hackingwithswift.com/articles/191/swiftui-lets-us-build-declarative-user-interfaces-in-swift)
