@@ -2,7 +2,7 @@
 A collaborative list of awesome SwiftUI resources. Feel free to contribute!
 
 
-I. [SwiftUI by Apple Developer Documentation](https://developer.apple.com/tutorials/swiftui/)
+I. [SwiftUI on Apple Developer Documentation](https://developer.apple.com/tutorials/swiftui/)
   1.  [Keynote WWDC 2019 - First announcement of SwiftUI](https://developer.apple.com/videos/play/wwdc2019/101/)
   2.  [Platforms State of the Union 2019 - More SwiftUI](https://developer.apple.com/videos/play/wwdc2019/103/)
   3.  [Apple Developer Tutorial on SwiftUI](https://developer.apple.com/xcode/swiftui/)
