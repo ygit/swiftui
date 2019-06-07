@@ -51,3 +51,5 @@ IX. [Simple SwiftUI App by Brian Advent](https://www.youtube.com/watch?v=Pfw7zWx
 X. [An example to-do list app using SwiftUI](https://github.com/devxoul/SwiftUITodo)
 
 XI. [Inside SwiftUI's Declarative Syntax's Compiler Magic](https://swiftrocks.com/inside-swiftui-compiler-magic.html)
+
+XII. [All of the Apple documented SwiftUI tutorials in one easy download](https://github.com/danielctull/SwiftUI-Tutorials)
