@@ -31,6 +31,7 @@ III. [SwiftUI Tutorials by Lets Build That App](https://www.youtube.com/channel/
 IV. [SwiftUI by John Sundell](https://www.swiftbysundell.com/)
   1. [A first look at SwiftUI: Apple’s declarative new UI framework](https://wwdcbysundell.com/2019/swiftui-first-look/)
   2. [Answers to the most common questions about SwiftUI](https://wwdcbysundell.com/2019/swiftui-common-questions/)
+  3. [SwiftUI’s relationship to UIKit and AppKit](https://wwdcbysundell.com/2019/swiftui-relationship-to-uikit-appkit/)
 
 V. [SwiftUI Tutorials by Code With Chris](https://www.youtube.com/user/CodeWithChris/)
   1. [SwiftUI Basics Tutorial](https://www.youtube.com/watch?v=IIDiqgdn2yo)
