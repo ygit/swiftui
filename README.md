@@ -28,23 +28,27 @@ III. [SwiftUI Tutorials by Lets Build That App](https://www.youtube.com/channel/
   3. [SwiftUI Basics: Dynamic Lists, HStack VStack, Images with Circle Clipped Stroke Overlays](https://www.youtube.com/watch?v=bz6GTYaIQXU)
   4. [SwiftUI: Facebook Complex Layouts - Horizontal Scroll View](https://www.youtube.com/watch?v=7QgPpvqTfeo)
   
-IV. [SwiftUI Tutorials by Code With Chris](https://www.youtube.com/user/CodeWithChris/)
+IV. [SwiftUI by John Sundell](https://www.swiftbysundell.com/)
+  1. [A first look at SwiftUI: Apple’s declarative new UI framework](https://wwdcbysundell.com/2019/swiftui-first-look/)
+  2. [Answers to the most common questions about SwiftUI](https://wwdcbysundell.com/2019/swiftui-common-questions/)
+
+V. [SwiftUI Tutorials by Code With Chris](https://www.youtube.com/user/CodeWithChris/)
   1. [SwiftUI Basics Tutorial](https://www.youtube.com/watch?v=IIDiqgdn2yo)
   2. [SwiftUI App Tutorial - Lists, Navigation and JSON Data](https://www.youtube.com/watch?v=wbFuAs_UNYg)
   
-V. [SwiftUI Tutorials by Kilo Loco](https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA/)
+VI. [SwiftUI Tutorials by Kilo Loco](https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA/)
   1. [SwiftUI Presenting Data In A Scroll View & List](https://www.youtube.com/watch?v=wjqDQ3X5Vos)
   2. [Intro To SwiftUI: Simple State Management](https://www.youtube.com/watch?v=AWPiup9fE2c)
   3. [Before You Learn SwiftUI, You Need To Hear This...](https://www.youtube.com/watch?v=H9XyZ_F1tPI)
 
-VI. [SwiftUI by Rebeloper](https://www.youtube.com/channel/UCK88iDIf2V6w68WvC-k7jcg/)
+VII. [SwiftUI by Rebeloper](https://www.youtube.com/channel/UCK88iDIf2V6w68WvC-k7jcg/)
   1. [SwiftUI = Mind-blow | WWDC iOS developer reaction](https://www.youtube.com/watch?v=fbuOxKqC5wQ)
   2. [SwiftUI - DON'T LEARN IT (JUST YET)](https://www.youtube.com/watch?v=AKHsFNtANes)
 
-VII. [SwiftUI Beginner Tutorial On iOS 13 by Devslopes](https://www.youtube.com/watch?v=wwDAvq9MZlQ) 
+VIII. [SwiftUI Beginner Tutorial On iOS 13 by Devslopes](https://www.youtube.com/watch?v=wwDAvq9MZlQ) 
 
-VIII. [Simple SwiftUI App by Brian Advent](https://www.youtube.com/watch?v=Pfw7zWxchQc)  
+IX. [Simple SwiftUI App by Brian Advent](https://www.youtube.com/watch?v=Pfw7zWxchQc)  
 
-IX. [An example to-do list app using SwiftUI](https://github.com/devxoul/SwiftUITodo)
+X. [An example to-do list app using SwiftUI](https://github.com/devxoul/SwiftUITodo)
 
-X. [Inside SwiftUI's Declarative Syntax's Compiler Magic](https://swiftrocks.com/inside-swiftui-compiler-magic.html)
+XI. [Inside SwiftUI's Declarative Syntax's Compiler Magic](https://swiftrocks.com/inside-swiftui-compiler-magic.html)
