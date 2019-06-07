@@ -3,11 +3,19 @@ A collaborative list of awesome SwiftUI resources. Feel free to contribute!
 
 
 I. [SwiftUI by Apple Developer Documentation](https://developer.apple.com/tutorials/swiftui/)
-  1. [Keynote WWDC 2019 - First announcement of SwiftUI](https://developer.apple.com/videos/play/wwdc2019/101/)
-  2. [Platforms State of the Union 2019 - More SwiftUI](https://developer.apple.com/videos/play/wwdc2019/103/)
-  3. [Apple Developer Tutorial on SwiftUI](https://developer.apple.com/xcode/swiftui/)
-  4. [Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204/)
-  5. [SwiftUI Essentials WWDC Video](https://developer.apple.com/videos/play/wwdc2019/216/)
+  1.  [Keynote WWDC 2019 - First announcement of SwiftUI](https://developer.apple.com/videos/play/wwdc2019/101/)
+  2.  [Platforms State of the Union 2019 - More SwiftUI](https://developer.apple.com/videos/play/wwdc2019/103/)
+  3.  [Apple Developer Tutorial on SwiftUI](https://developer.apple.com/xcode/swiftui/)
+  4.  [Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204/)
+  5.  [SwiftUI Essentials WWDC Video](https://developer.apple.com/videos/play/wwdc2019/216/)
+  6.  [Building Custom Views with SwiftUI](https://developer.apple.com/videos/play/wwdc2019/237/)
+  7.  [Integrating SwiftUI](https://developer.apple.com/videos/play/wwdc2019/231/)
+  8.  [Data Flow Through SwiftUI](https://developer.apple.com/videos/play/wwdc2019/226/) 
+  9.  [Mastering Xcode Previews](https://developer.apple.com/videos/play/wwdc2019/233/)
+  10. [Accessibility in SwiftUI](https://developer.apple.com/videos/play/wwdc2019/238/)
+  11. [SwiftUI On All Devices](https://developer.apple.com/videos/play/wwdc2019/240/)
+  12. [SwiftUI on watchOS](https://developer.apple.com/videos/play/wwdc2019/219/)
+
 
 II. [Paul Hudson on Hacking With Swift](https://www.hackingwithswift.com/)
   1. [First look at SwiftUI](https://www.hackingwithswift.com/articles/191/swiftui-lets-us-build-declarative-user-interfaces-in-swift)
