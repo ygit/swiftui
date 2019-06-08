@@ -56,4 +56,4 @@ XI. [Inside SwiftUI's Declarative Syntax's Compiler Magic](https://swiftrocks.co
 
 XII. [All of the Apple documented SwiftUI tutorials in one easy download](https://github.com/danielctull/SwiftUI-Tutorials)
 
-XIII. [Live Codeing SwiftUI by Swiftly Tilting Planet](https://www.youtube.com/watch?v=tIi_C5ZeLc0)
+XIII. [Live Coding SwiftUI by Swiftly Tilting Planet](https://www.youtube.com/watch?v=tIi_C5ZeLc0)
