@@ -19,12 +19,14 @@ II. [Paul Hudson on Hacking With Swift](https://www.hackingwithswift.com/)
   1. [First look at SwiftUI](https://www.hackingwithswift.com/articles/191/swiftui-lets-us-build-declarative-user-interfaces-in-swift)
   2. [Getting Started with SwiftUI](https://www.hackingwithswift.com/articles/194/get-started-with-swiftui)
   3. [Quick Start Guide on SwiftUI by Hacking With Swift](https://www.hackingwithswift.com/quick-start/swiftui)
+  4. [SwiftUI by Example Videos](https://www.youtube.com/playlist?list=PLuoeXyslFTubw4NtepDCis5tTqK37zT3Q)
 
 III. [SwiftUI Tutorials by Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA/)
   1. [SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc)
   2. [How to Run SwiftUI on Mojave with Playgrounds and Sample Code](https://www.youtube.com/watch?v=VSvz62fGyYM)
   3. [SwiftUI Basics: Dynamic Lists, HStack VStack, Images with Circle Clipped Stroke Overlays](https://www.youtube.com/watch?v=bz6GTYaIQXU)
   4. [SwiftUI: Facebook Complex Layouts - Horizontal Scroll View](https://www.youtube.com/watch?v=7QgPpvqTfeo)
+  5. [State Management and Bindings](https://www.youtube.com/watch?v=l7vkP6WW6Yk)
   
 IV. [SwiftUI by John Sundell](https://www.swiftbysundell.com/)
   1. [A first look at SwiftUI: Apple’s declarative new UI framework](https://wwdcbysundell.com/2019/swiftui-first-look/)
@@ -53,3 +55,5 @@ X. [An example to-do list app using SwiftUI](https://github.com/devxoul/SwiftUIT
 XI. [Inside SwiftUI's Declarative Syntax's Compiler Magic](https://swiftrocks.com/inside-swiftui-compiler-magic.html)
 
 XII. [All of the Apple documented SwiftUI tutorials in one easy download](https://github.com/danielctull/SwiftUI-Tutorials)
+
+XIII. [Live Codeing SwiftUI by Swiftly Tilting Planet](https://www.youtube.com/watch?v=tIi_C5ZeLc0)
