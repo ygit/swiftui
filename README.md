@@ -100,3 +100,14 @@
 
 
 13. 📹 [Live Coding SwiftUI by Swiftly Tilting Planet](https://www.youtube.com/watch?v=tIi_C5ZeLc0) 
+
+14. [SwiftUI by Maxcodes](https://www.youtube.com/channel/UCtegvRiZKojo8MG1gCF-NMg/)
+
+    📹 [What is SwiftUI?](https://www.youtube.com/watch?v=hGUdxX7rTa4)
+    
+    📹 [How To Create Views, Text and Stacks](https://www.youtube.com/watch?v=wbxbe35Bbn4)
+    
+    📹 [Creating NavigationView, List, Text, NavigationBarTitle](https://www.youtube.com/watch?v=rySUuXkN5wg)
+    
+
+
