@@ -51,6 +51,8 @@
    
    📹 [State Management and Bindings](https://www.youtube.com/watch?v=l7vkP6WW6Yk) 
    
+   📹 [Fetching JSON and Image Data with BindableObject](https://www.youtube.com/watch?v=xT4wGOc2jd4)
+   
   
 4. [SwiftUI by John Sundell](https://www.swiftbysundell.com/)
 
