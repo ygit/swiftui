@@ -113,4 +113,7 @@
     
 15. 📖 [SwiftUI Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) 
 
+16. [SwiftUI by Gary Tokman](https://www.youtube.com/channel/UCQWmp143iznhc_lZoM0rbXQ)
+
+    📹 [SwiftUI Tutorial - Build a list that fetches JSON!](https://www.youtube.com/watch?v=xkclf3Alz8M)
 
