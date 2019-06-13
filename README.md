@@ -38,7 +38,7 @@
    
    📹 [SwiftUI by Example Videos](https://www.youtube.com/playlist?list=PLuoeXyslFTubw4NtepDCis5tTqK37zT3Q) 
    
-   📹 [Build a dynamic list app with navigation and images](https://www.youtube.com/watch?v=VGJBLlfSN-Y)
+   📹 [SwiftUI Complete Apps](https://www.youtube.com/playlist?list=PLuoeXyslFTuaZtX7xSYbWz3TR0Vpz39gK)
    
 
 3. [SwiftUI Tutorials by Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA/)
