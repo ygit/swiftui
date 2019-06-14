@@ -40,7 +40,7 @@
    
    📹 [SwiftUI Complete Apps](https://www.youtube.com/playlist?list=PLuoeXyslFTuaZtX7xSYbWz3TR0Vpz39gK)
    
-   📖 [Learn SwiftUI with free tutorials](https://www.hackingwithswift.com/articles/196/learn-swiftui-with-free-tutorials)
+   📖 [Learn SwiftUI with Tutorials](https://www.hackingwithswift.com/articles/196/learn-swiftui-with-free-tutorials)
    
 
 3. [SwiftUI Tutorials by Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA/)
