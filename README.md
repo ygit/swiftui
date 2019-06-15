@@ -93,6 +93,8 @@
    
    📹 [SwiftUI - DON'T LEARN IT (JUST YET)](https://www.youtube.com/watch?v=AKHsFNtANes) 
    
+   📹 [SwiftUI Modifiers in UIKit with @discardableResult](https://www.youtube.com/watch?v=rhWnSub7d_Y)
+   
 
 8. 📹 [SwiftUI Beginner Tutorial On iOS 13 by Devslopes](https://www.youtube.com/watch?v=wwDAvq9MZlQ) 
 
