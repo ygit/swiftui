@@ -75,6 +75,8 @@
    
    📹 [How To Handle User Input](https://www.youtube.com/watch?v=6PO0k8GlxWA)
    
+   📹 [Understand SwiftUI, Property Wrapper, @State, @EnvironmentObject & More](https://www.youtube.com/watch?v=Bb5APObvgDY)
+   
   
 6. [SwiftUI Tutorials by Kilo Loco](https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA/)
 
@@ -94,6 +96,8 @@
    📹 [SwiftUI - DON'T LEARN IT (JUST YET)](https://www.youtube.com/watch?v=AKHsFNtANes) 
    
    📹 [SwiftUI Modifiers in UIKit with @discardableResult](https://www.youtube.com/watch?v=rhWnSub7d_Y)
+   
+   📹 [SwiftUI Visual Debugging in UIKit](https://www.youtube.com/watch?v=3cJzNdrnpfk)
    
 
 8. 📹 [SwiftUI Beginner Tutorial On iOS 13 by Devslopes](https://www.youtube.com/watch?v=wwDAvq9MZlQ) 
