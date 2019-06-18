@@ -99,6 +99,8 @@
    
    📹 [SwiftUI Visual Debugging in UIKit](https://www.youtube.com/watch?v=3cJzNdrnpfk)
    
+   📹 [SwiftUI in UIKit? Yes! Meet DuckUI](https://www.youtube.com/watch?v=DjITHGUbRSw)
+   
 
 8. 📹 [SwiftUI Beginner Tutorial On iOS 13 by Devslopes](https://www.youtube.com/watch?v=wwDAvq9MZlQ) 
 
