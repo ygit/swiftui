@@ -42,6 +42,8 @@
    
    📖 [Learn SwiftUI with Tutorials](https://www.hackingwithswift.com/articles/196/learn-swiftui-with-free-tutorials)
    
+   📹 [SwiftUI vs UIKit – Comparison of building the same app in each framework](https://www.youtube.com/watch?v=qk2y-TiLDZo)
+   
 
 3. [SwiftUI Tutorials by Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA/)
 
@@ -119,6 +121,7 @@
 
 13. 📹 [Live Coding SwiftUI by Swiftly Tilting Planet](https://www.youtube.com/watch?v=tIi_C5ZeLc0) 
 
+
 14. [SwiftUI by Maxcodes](https://www.youtube.com/channel/UCtegvRiZKojo8MG1gCF-NMg/)
 
     📹 [What is SwiftUI?](https://www.youtube.com/watch?v=hGUdxX7rTa4)
@@ -126,6 +129,8 @@
     📹 [How To Create Views, Text and Stacks](https://www.youtube.com/watch?v=wbxbe35Bbn4)
     
     📹 [Creating NavigationView, List, Text, NavigationBarTitle](https://www.youtube.com/watch?v=rySUuXkN5wg)
+    
+    📹 [Draw Shapes in SwiftUI with Path, addLine, CGPoint, LinearGradient](https://www.youtube.com/watch?v=U9LtemI4i5M)
     
 15. 📖 [SwiftUI Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) 
 
