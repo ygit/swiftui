@@ -59,6 +59,8 @@
    
    📹 [Fetching JSON and Image Data with BindableObject](https://www.youtube.com/watch?v=xT4wGOc2jd4)
    
+   📹 [Differences between @State, @ObjectBinding, and @EnvironmentObject?](https://www.youtube.com/watch?v=stSB04C4iS4)
+   
   
 4. [SwiftUI by John Sundell](https://www.swiftbysundell.com/)
 
