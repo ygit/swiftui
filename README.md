@@ -44,6 +44,8 @@
    
    📹 [SwiftUI vs UIKit – Comparison of building the same app in each framework](https://www.youtube.com/watch?v=qk2y-TiLDZo)
    
+   📹 [Differences between @State, @ObjectBinding, and @EnvironmentObject?](https://www.youtube.com/watch?v=stSB04C4iS4)
+   
 
 3. [SwiftUI Tutorials by Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA/)
 
@@ -58,8 +60,6 @@
    📹 [State Management and Bindings](https://www.youtube.com/watch?v=l7vkP6WW6Yk) 
    
    📹 [Fetching JSON and Image Data with BindableObject](https://www.youtube.com/watch?v=xT4wGOc2jd4)
-   
-   📹 [Differences between @State, @ObjectBinding, and @EnvironmentObject?](https://www.youtube.com/watch?v=stSB04C4iS4)
    
   
 4. [SwiftUI by John Sundell](https://www.swiftbysundell.com/)
