@@ -109,7 +109,11 @@
 8. 📹 [SwiftUI Beginner Tutorial On iOS 13 by Devslopes](https://www.youtube.com/watch?v=wwDAvq9MZlQ) 
 
 
-9. 📹 [Simple SwiftUI App by Brian Advent](https://www.youtube.com/watch?v=Pfw7zWxchQc) 
+9. [SwiftUI by Brian Advent](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw)
+
+   📹  [Simple SwiftUI App](https://www.youtube.com/watch?v=Pfw7zWxchQc)
+
+   📹 [Complex UI with SwiftUI from Start to Finish](https://www.youtube.com/watch?v=Xetrbmnszjc)
 
 
 10. 💻 [An example to-do list app using SwiftUI](https://github.com/devxoul/SwiftUITodo) 
