@@ -144,5 +144,7 @@
 
     📹 [SwiftUI Tutorial - Build a list that fetches JSON!](https://www.youtube.com/watch?v=xkclf3Alz8M)
 
-16. [SwiftUI Currency Converter App](https://github.com/alexliubj/SwiftUI-Currency-Converter)
+16. 💻 [SwiftUI Currency Converter App](https://github.com/alexliubj/SwiftUI-Currency-Converter)
+
+17. 📹 [SwiftUI Collection by Objc.io](https://talk.objc.io/collections/swiftui)
 
