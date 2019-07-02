@@ -148,3 +148,5 @@
 
 17. 📹 [SwiftUI Collection by Objc.io](https://talk.objc.io/collections/swiftui)
 
+18. 📖 [SwiftUI and Combine - A collection of notes, project pieces, playgrounds & ideas on learning](https://heckj.github.io/swiftui-notes/)
+
