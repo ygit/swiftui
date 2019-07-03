@@ -144,9 +144,17 @@
 
     📹 [SwiftUI Tutorial - Build a list that fetches JSON!](https://www.youtube.com/watch?v=xkclf3Alz8M)
 
-16. 💻 [SwiftUI Currency Converter App](https://github.com/alexliubj/SwiftUI-Currency-Converter)
+17. 💻 [SwiftUI Currency Converter App](https://github.com/alexliubj/SwiftUI-Currency-Converter)
 
-17. 📹 [SwiftUI Collection by Objc.io](https://talk.objc.io/collections/swiftui)
+18. 📹 [SwiftUI Collection by Objc.io](https://talk.objc.io/collections/swiftui)
 
-18. 📖 [SwiftUI and Combine - A collection of notes, project pieces, playgrounds & ideas on learning](https://heckj.github.io/swiftui-notes/)
+19. 📖 [SwiftUI and Combine - A collection of notes, project pieces, playgrounds & ideas on learning](https://heckj.github.io/swiftui-notes/)
+
+20. 💻  [SwiftUI Todo App](https://github.com/devxoul/SwiftUITodo/)
+
+21. 💻  [SwiftUI & Combine app using MovieDB API. With a custom Flux (Redux) implementation](https://github.com/Dimillian/MovieSwiftUI)
+
+22. 💻  [A Weather app in SwiftUI](https://github.com/bpisano/Weather)
+
+23. 💻  [A 2048 game writing with SwiftUI](https://github.com/unixzii/SwiftUI-2048)
 
