@@ -156,3 +156,5 @@
 
 21. 💻  [A Weather app in SwiftUI](https://github.com/bpisano/Weather)
 
+21. 💻  [A 2048 game writing with SwiftUI](https://github.com/unixzii/SwiftUI-2048)
+
