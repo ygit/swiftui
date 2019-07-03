@@ -150,3 +150,9 @@
 
 18. 📖 [SwiftUI and Combine - A collection of notes, project pieces, playgrounds & ideas on learning](https://heckj.github.io/swiftui-notes/)
 
+19. 💻  [SwiftUI Todo App](https://github.com/devxoul/SwiftUITodo/)
+
+20. 💻  [SwiftUI & Combine app using MovieDB API. With a custom Flux (Redux) implementation](https://github.com/Dimillian/MovieSwiftUI)
+
+21. 💻  [A Weather app in SwiftUI](https://github.com/bpisano/Weather)
+
