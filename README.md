@@ -150,3 +150,4 @@
 
 18. 📖 [SwiftUI and Combine - A collection of notes, project pieces, playgrounds & ideas on learning](https://heckj.github.io/swiftui-notes/)
 
+19. 📹 📖 [A First Look at SwiftUI by ObjC.io - Chris Eidhof and Florial Kugler](https://talk.objc.io/episodes/S01E156-a-first-look-at-swiftui)
