@@ -163,3 +163,4 @@
 
 23. 💻  [A 2048 game writing with SwiftUI](https://github.com/unixzii/SwiftUI-2048)
 
+24. 📹 📖 [A First Look at SwiftUI by ObjC.io - Chris Eidhof and Florial Kugler](https://talk.objc.io/episodes/S01E156-a-first-look-at-swiftui)
