@@ -1,5 +1,10 @@
 # Awesome SwiftUI
 
+[![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20macOS%20%7C%20watchOS%20%7C%20tvOS%20%7C%20UIKit%20For%20Mac-lightgrey.svg)](https://developer.apple.com/documentation/swiftui)
+[![Commits](https://img.shields.io/github/commit-activity/m/ygit/swiftui.svg)](https://github.com/ygit/swiftui/blob/master/README.md)
+[![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ygit/swiftui/pulls)
+
+
 1. [SwiftUI on Apple Developer Documentation](https://developer.apple.com/tutorials/swiftui/) 
 
     📹 [Keynote WWDC 2019 - First announcement of SwiftUI](https://developer.apple.com/videos/play/wwdc2019/101/) 
@@ -144,9 +149,20 @@
 
     📹 [SwiftUI Tutorial - Build a list that fetches JSON!](https://www.youtube.com/watch?v=xkclf3Alz8M)
 
-16. 💻 [SwiftUI Currency Converter App](https://github.com/alexliubj/SwiftUI-Currency-Converter)
+17. 💻 [SwiftUI Currency Converter App](https://github.com/alexliubj/SwiftUI-Currency-Converter)
 
-17. 📹 [SwiftUI Collection by Objc.io](https://talk.objc.io/collections/swiftui)
+18. 📹 [SwiftUI Collection by Objc.io](https://talk.objc.io/collections/swiftui)
 
-18. 📖 [SwiftUI and Combine - A collection of notes, project pieces, playgrounds & ideas on learning](https://heckj.github.io/swiftui-notes/)
+19. 📖 [SwiftUI and Combine - A collection of notes, project pieces, playgrounds & ideas on learning](https://heckj.github.io/swiftui-notes/)
 
+20. 💻  [SwiftUI Todo App](https://github.com/devxoul/SwiftUITodo/)
+
+21. 💻  [SwiftUI & Combine app using MovieDB API. With a custom Flux (Redux) implementation](https://github.com/Dimillian/MovieSwiftUI)
+
+22. 💻  [A Weather app in SwiftUI](https://github.com/bpisano/Weather)
+
+23. 💻  [A 2048 game writing with SwiftUI](https://github.com/unixzii/SwiftUI-2048)
+
+24. 📹 📖 [A First Look at SwiftUI by ObjC.io - Chris Eidhof and Florial Kugler](https://talk.objc.io/episodes/S01E156-a-first-look-at-swiftui)
+
+25. 📖 [Building BarChart in SwiftUI by Majid Jabrayilov](https://mecid.github.io/2019/08/14/building-barchart-with-shape-api-in-swiftui/)
