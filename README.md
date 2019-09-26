@@ -166,3 +166,10 @@
 24. 📹 📖 [A First Look at SwiftUI by ObjC.io - Chris Eidhof and Florial Kugler](https://talk.objc.io/episodes/S01E156-a-first-look-at-swiftui)
 
 25. 📖 [Building BarChart in SwiftUI by Majid Jabrayilov](https://mecid.github.io/2019/08/14/building-barchart-with-shape-api-in-swiftui/)
+
+26. 📖 [SwiftUI: Getting Started By RayWenderlich](https://www.raywenderlich.com/3715234-swiftui-getting-started)
+
+27. 📖 [Fucking SwiftUI:A curated list of questions and answers about SwiftUI](https://fuckingswiftui.com/)
+
+28. 📖 [SwiftUIHub:Resources for swiftUI](https://swiftuihub.com/)
+
