@@ -173,7 +173,7 @@
 
 28. 📖 [SwiftUIHub:Resources for swiftUI](https://swiftuihub.com/)
 
-29. 💻 [SwiftUI Sliders](https://github.com/spacenation/sliders)
+29. 💻 [SwiftUI Sliders](https://github.com/SwiftUIExtensions/Sliders)
 
-30. 💻 [SwiftUI Grid](https://github.com/spacenation/grid)
+30. 💻 [SwiftUI Grid](https://github.com/SwiftUIExtensions/Grid)
 
