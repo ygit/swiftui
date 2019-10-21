@@ -177,3 +177,12 @@
 
 30. 💻 [SwiftUI Grid](https://github.com/SwiftUIExtensions/Grid)
 
+31. [NSScreencast - Free SwiftUI Videos](https://nsscreencast.com/episodes/free#episodes)
+
+    📹 [Hello, SwiftUI!](https://nsscreencast.com/episodes/396-hello-swift-ui)
+
+    📹 [Tip Calculator in SwiftUI](https://nsscreencast.com/episodes/397-swiftui-tip-calculator)
+
+    📹 [SwiftUI Transforms and Animations](https://nsscreencast.com/episodes/399-swiftui-transforms-and-animations)
+
+    📹 [SwiftUI Gestures](https://nsscreencast.com/episodes/400-swiftui-gestures)
