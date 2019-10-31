@@ -186,3 +186,6 @@
     📹 [SwiftUI Transforms and Animations](https://nsscreencast.com/episodes/399-swiftui-transforms-and-animations)
 
     📹 [SwiftUI Gestures](https://nsscreencast.com/episodes/400-swiftui-gestures)
+    
+    
+32. 💻[SwiftUIX provides an extensive suite of components, extensions and utilities to complement the Standard Library.](https://github.com/SwiftUIX/SwiftUIX)
