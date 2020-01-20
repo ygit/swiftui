@@ -186,3 +186,9 @@
     📹 [SwiftUI Transforms and Animations](https://nsscreencast.com/episodes/399-swiftui-transforms-and-animations)
 
     📹 [SwiftUI Gestures](https://nsscreencast.com/episodes/400-swiftui-gestures)
+    
+32. Frameworks
+    * 🌍 Networking
+    
+    [Hover an async Combine supported networking library](https://github.com/onurhuseyincantay/Hover)
+
