@@ -187,8 +187,10 @@
 
     📹 [SwiftUI Gestures](https://nsscreencast.com/episodes/400-swiftui-gestures)
     
-32. Frameworks
+    
+32. 💻[SwiftUIX provides an extensive suite of components, extensions and utilities to complement the Standard Library.](https://github.com/SwiftUIX/SwiftUIX)
+
+33. Frameworks
     * 🌍 Networking
     
     [Hover an async Combine supported networking library](https://github.com/onurhuseyincantay/Hover)
-
