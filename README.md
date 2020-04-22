@@ -175,7 +175,7 @@
 
 29. 💻 [SwiftUI Sliders](https://github.com/SwiftUIExtensions/Sliders)
 
-30. 💻 [SwiftUI Grid](https://github.com/SwiftUIExtensions/Grid)
+30. 💻 [SwiftUI Grid](https://github.com/spacenation/swiftui-grid)
 
 31. [NSScreencast - Free SwiftUI Videos](https://nsscreencast.com/episodes/free#episodes)
 
