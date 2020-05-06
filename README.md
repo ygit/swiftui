@@ -194,3 +194,7 @@
     * 🌍 Networking
     
     [Hover an async Combine supported networking library](https://github.com/onurhuseyincantay/Hover)
+    
+    * 📦 Storage
+    
+    [Defaults — `@State` replacement for UserDefaults](https://github.com/sindresorhus/Defaults#swiftui-support)
