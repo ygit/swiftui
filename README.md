@@ -199,3 +199,4 @@
     [Defaults — `@State` replacement for UserDefaults](https://github.com/sindresorhus/Defaults#swiftui-support)
     
 34. 📹 [Your First iOS and SwiftUI App - Ray Wenderlich](https://www.raywenderlich.com/4919757-your-first-ios-and-swiftui-app)
+35. 💻 [SVG to SwiftUI Shape Converter](https://github.com/quassummanus/SVG-to-SwiftUI)
