@@ -200,6 +200,9 @@
     * 👤 User Interface
     
     [Preferences — Create a preferences window for your macOS app in SwiftUI](https://github.com/sindresorhus/Preferences#swiftui-support)
+    * 🌈 Miscellaneous
+    
+    [KeyboardShortcuts — User-customizable global keyboard shortcuts for your macOS app](https://github.com/sindresorhus/KeyboardShortcuts)
     
 34. 📹 [Your First iOS and SwiftUI App - Ray Wenderlich](https://www.raywenderlich.com/4919757-your-first-ios-and-swiftui-app)
 35. 💻 [SVG to SwiftUI Shape Converter](https://github.com/quassummanus/SVG-to-SwiftUI)
