@@ -97,7 +97,7 @@
    
    📹 [Using Both UIKit And SwiftUI In Your Project](https://www.youtube.com/watch?v=ch_vKP9vlgk)
    
-7. [What is iSwiftUI?](https://www.youtube.com/channel/UCNgIepTzLt3o0knf8-bEhRg)
+7. [*What is iSwiftUI?*](https://www.youtube.com/channel/UCNgIepTzLt3o0knf8-bEhRg)
 
    📹 [How to format phone numbers in SwiftUI](https://www.youtube.com/channel/UCNgIepTzLt3o0knf8-bEhRg)
    
