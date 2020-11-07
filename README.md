@@ -213,7 +213,7 @@
 37. 💻 [SSToastMessage - A library to show Popup, Toast, Alert or Floating Message.](https://github.com/SimformSolutionsPvtLtd/SSToastMessage) 
 
 
-38. [*What is **i**SwiftUI?*](https://www.youtube.com/channel/UCNgIepTzLt3o0knf8-bEhRg)
+38. [*What is* **i***SwiftUI?*](https://www.youtube.com/channel/UCNgIepTzLt3o0knf8-bEhRg)
 
     📹 [How to format phone numbers in SwiftUI](https://www.youtube.com/channel/UCNgIepTzLt3o0knf8-bEhRg)
 
