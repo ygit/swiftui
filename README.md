@@ -97,8 +97,20 @@
    
    📹 [Using Both UIKit And SwiftUI In Your Project](https://www.youtube.com/watch?v=ch_vKP9vlgk)
    
+7. [What is iSwiftUI?](https://www.youtube.com/channel/UCNgIepTzLt3o0knf8-bEhRg)
 
-7. [SwiftUI by Rebeloper](https://www.youtube.com/channel/UCK88iDIf2V6w68WvC-k7jcg/)
+   📹 [How to format phone numbers in SwiftUI](https://www.youtube.com/channel/UCNgIepTzLt3o0knf8-bEhRg)
+   
+   📖 [Formatting phone numbers entirely in SwiftUI](https://benjaminlsage.medium.com/format-phone-numbers-entirely-in-swiftui-9456f52990a1)
+   
+   📹 [Swipable pages in SwiftUI](https://www.youtube.com/watch?v=XscaH8SaPvA&ab_channel=WhatisiSwiftUI%3F)
+   
+   📹 [SwiftUI Text Field with 24 custom modifiers](https://www.youtube.com/watch?v=VrVyJ0jVCmg&t=68s&ab_channel=WhatisiSwiftUI%3F)
+   
+   📹 [Apple Pay button in SwiftUI](https://www.youtube.com/watch?v=v9ORJkchGNQ&t=65s&ab_channel=WhatisiSwiftUI%3F)
+   
+
+8. [SwiftUI by Rebeloper](https://www.youtube.com/channel/UCK88iDIf2V6w68WvC-k7jcg/)
 
    📹 [SwiftUI = Mind-blow | WWDC iOS developer reaction](https://www.youtube.com/watch?v=fbuOxKqC5wQ) 
    
@@ -111,29 +123,29 @@
    📹 [SwiftUI in UIKit? Yes! Meet DuckUI](https://www.youtube.com/watch?v=DjITHGUbRSw)
    
 
-8. 📹 [SwiftUI Beginner Tutorial On iOS 13 by Devslopes](https://www.youtube.com/watch?v=wwDAvq9MZlQ) 
+9. 📹 [SwiftUI Beginner Tutorial On iOS 13 by Devslopes](https://www.youtube.com/watch?v=wwDAvq9MZlQ) 
 
 
-9. [SwiftUI by Brian Advent](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw)
+10. [SwiftUI by Brian Advent](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw)
 
    📹  [Simple SwiftUI App](https://www.youtube.com/watch?v=Pfw7zWxchQc)
 
    📹 [Complex UI with SwiftUI from Start to Finish](https://www.youtube.com/watch?v=Xetrbmnszjc)
 
 
-10. 💻 [An example to-do list app using SwiftUI](https://github.com/devxoul/SwiftUITodo) 
+11. 💻 [An example to-do list app using SwiftUI](https://github.com/devxoul/SwiftUITodo) 
 
 
-11. 📖 [Inside SwiftUI's Declarative Syntax's Compiler Magic](https://swiftrocks.com/inside-swiftui-compiler-magic.html) 
+12. 📖 [Inside SwiftUI's Declarative Syntax's Compiler Magic](https://swiftrocks.com/inside-swiftui-compiler-magic.html) 
 
 
-12. 💻 [All of the Apple documented SwiftUI tutorials in one easy download](https://github.com/danielctull/SwiftUI-Tutorials) 
+13. 💻 [All of the Apple documented SwiftUI tutorials in one easy download](https://github.com/danielctull/SwiftUI-Tutorials) 
 
 
-13. 📹 [Live Coding SwiftUI by Swiftly Tilting Planet](https://www.youtube.com/watch?v=tIi_C5ZeLc0) 
+14. 📹 [Live Coding SwiftUI by Swiftly Tilting Planet](https://www.youtube.com/watch?v=tIi_C5ZeLc0) 
 
 
-14. [SwiftUI by Maxcodes](https://www.youtube.com/channel/UCtegvRiZKojo8MG1gCF-NMg/)
+15. [SwiftUI by Maxcodes](https://www.youtube.com/channel/UCtegvRiZKojo8MG1gCF-NMg/)
 
     📹 [What is SwiftUI?](https://www.youtube.com/watch?v=hGUdxX7rTa4)
     
@@ -143,41 +155,41 @@
     
     📹 [Draw Shapes in SwiftUI with Path, addLine, CGPoint, LinearGradient](https://www.youtube.com/watch?v=U9LtemI4i5M)
     
-15. 📖 [SwiftUI Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) 
+16. 📖 [SwiftUI Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) 
 
-16. [SwiftUI by Gary Tokman](https://www.youtube.com/channel/UCQWmp143iznhc_lZoM0rbXQ)
+17. [SwiftUI by Gary Tokman](https://www.youtube.com/channel/UCQWmp143iznhc_lZoM0rbXQ)
 
     📹 [SwiftUI Tutorial - Build a list that fetches JSON!](https://www.youtube.com/watch?v=xkclf3Alz8M)
 
-17. 💻 [SwiftUI Currency Converter App](https://github.com/alexliubj/SwiftUI-Currency-Converter)
+18. 💻 [SwiftUI Currency Converter App](https://github.com/alexliubj/SwiftUI-Currency-Converter)
 
-18. 📹 [SwiftUI Collection by Objc.io](https://talk.objc.io/collections/swiftui)
+19. 📹 [SwiftUI Collection by Objc.io](https://talk.objc.io/collections/swiftui)
 
-19. 📖 [SwiftUI and Combine - A collection of notes, project pieces, playgrounds & ideas on learning](https://heckj.github.io/swiftui-notes/)
+20. 📖 [SwiftUI and Combine - A collection of notes, project pieces, playgrounds & ideas on learning](https://heckj.github.io/swiftui-notes/)
 
-20. 💻  [SwiftUI Todo App](https://github.com/devxoul/SwiftUITodo/)
+21. 💻  [SwiftUI Todo App](https://github.com/devxoul/SwiftUITodo/)
 
-21. 💻  [SwiftUI & Combine app using MovieDB API. With a custom Flux (Redux) implementation](https://github.com/Dimillian/MovieSwiftUI)
+22. 💻  [SwiftUI & Combine app using MovieDB API. With a custom Flux (Redux) implementation](https://github.com/Dimillian/MovieSwiftUI)
 
-22. 💻  [A Weather app in SwiftUI](https://github.com/bpisano/Weather)
+23. 💻  [A Weather app in SwiftUI](https://github.com/bpisano/Weather)
 
-23. 💻  [A 2048 game writing with SwiftUI](https://github.com/unixzii/SwiftUI-2048)
+24. 💻  [A 2048 game writing with SwiftUI](https://github.com/unixzii/SwiftUI-2048)
 
-24. 📹 📖 [A First Look at SwiftUI by ObjC.io - Chris Eidhof and Florial Kugler](https://talk.objc.io/episodes/S01E156-a-first-look-at-swiftui)
+25. 📹 📖 [A First Look at SwiftUI by ObjC.io - Chris Eidhof and Florial Kugler](https://talk.objc.io/episodes/S01E156-a-first-look-at-swiftui)
 
-25. 📖 [Building BarChart in SwiftUI by Majid Jabrayilov](https://mecid.github.io/2019/08/14/building-barchart-with-shape-api-in-swiftui/)
+26. 📖 [Building BarChart in SwiftUI by Majid Jabrayilov](https://mecid.github.io/2019/08/14/building-barchart-with-shape-api-in-swiftui/)
 
-26. 📖 [SwiftUI: Getting Started By RayWenderlich](https://www.raywenderlich.com/3715234-swiftui-getting-started)
+27. 📖 [SwiftUI: Getting Started By RayWenderlich](https://www.raywenderlich.com/3715234-swiftui-getting-started)
 
-27. 📖 [Fucking SwiftUI:A curated list of questions and answers about SwiftUI](https://fuckingswiftui.com/)
+28. 📖 [Fucking SwiftUI:A curated list of questions and answers about SwiftUI](https://fuckingswiftui.com/)
 
-28. 📖 [SwiftUIHub:Resources for swiftUI](https://swiftuihub.com/)
+29. 📖 [SwiftUIHub:Resources for swiftUI](https://swiftuihub.com/)
 
-29. 💻 [SwiftUI Sliders](https://github.com/SwiftUIExtensions/Sliders)
+30. 💻 [SwiftUI Sliders](https://github.com/SwiftUIExtensions/Sliders)
 
-30. 💻 [SwiftUI Grid](https://github.com/spacenation/swiftui-grid)
+31. 💻 [SwiftUI Grid](https://github.com/spacenation/swiftui-grid)
 
-31. [NSScreencast - Free SwiftUI Videos](https://nsscreencast.com/episodes/free#episodes)
+32. [NSScreencast - Free SwiftUI Videos](https://nsscreencast.com/episodes/free#episodes)
 
     📹 [Hello, SwiftUI!](https://nsscreencast.com/episodes/396-hello-swift-ui)
 
@@ -188,9 +200,9 @@
     📹 [SwiftUI Gestures](https://nsscreencast.com/episodes/400-swiftui-gestures)
     
     
-32. 💻 [SwiftUIX provides an extensive suite of components, extensions and utilities to complement the Standard Library.](https://github.com/SwiftUIX/SwiftUIX)
+33. 💻 [SwiftUIX provides an extensive suite of components, extensions and utilities to complement the Standard Library.](https://github.com/SwiftUIX/SwiftUIX)
 
-33. Frameworks
+34. Frameworks
     * 🌍 Networking
     
     [Hover an async Combine supported networking library](https://github.com/onurhuseyincantay/Hover)
@@ -204,10 +216,10 @@
     
     [KeyboardShortcuts — User-customizable global keyboard shortcuts for your macOS app](https://github.com/sindresorhus/KeyboardShortcuts)
     
-34. 📹 [Your First iOS and SwiftUI App - Ray Wenderlich](https://www.raywenderlich.com/4919757-your-first-ios-and-swiftui-app)
+35. 📹 [Your First iOS and SwiftUI App - Ray Wenderlich](https://www.raywenderlich.com/4919757-your-first-ios-and-swiftui-app)
 
-35. 💻 [SVG to SwiftUI Shape Converter](https://github.com/quassummanus/SVG-to-SwiftUI)
+36. 💻 [SVG to SwiftUI Shape Converter](https://github.com/quassummanus/SVG-to-SwiftUI)
 
-36. 💻 [A Demo App forSwiftUI System Components & Interactions based on iOS 14, macOS Big Sur, watchOS 7, and tvOS 14](https://github.com/jordansinger/SwiftUI-Kit)
+37. 💻 [A Demo App forSwiftUI System Components & Interactions based on iOS 14, macOS Big Sur, watchOS 7, and tvOS 14](https://github.com/jordansinger/SwiftUI-Kit)
 
-37. 💻 [SSToastMessage - A library to show Popup, Toast, Alert or Floating Message.](https://github.com/SimformSolutionsPvtLtd/SSToastMessage) 
+38. 💻 [SSToastMessage - A library to show Popup, Toast, Alert or Floating Message.](https://github.com/SimformSolutionsPvtLtd/SSToastMessage) 
