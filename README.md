@@ -211,3 +211,16 @@
 36. 💻 [A Demo App forSwiftUI System Components & Interactions based on iOS 14, macOS Big Sur, watchOS 7, and tvOS 14](https://github.com/jordansinger/SwiftUI-Kit)
 
 37. 💻 [SSToastMessage - A library to show Popup, Toast, Alert or Floating Message.](https://github.com/SimformSolutionsPvtLtd/SSToastMessage) 
+
+
+38. [*What is* **i***SwiftUI?*](https://www.youtube.com/channel/UCNgIepTzLt3o0knf8-bEhRg)
+
+    📹 [How to format phone numbers in SwiftUI](https://www.youtube.com/channel/UCNgIepTzLt3o0knf8-bEhRg)
+
+    📖 [Formatting phone numbers entirely in SwiftUI](https://benjaminlsage.medium.com/format-phone-numbers-entirely-in-swiftui-9456f52990a1)
+
+    📹 [Swipable pages in SwiftUI](https://www.youtube.com/watch?v=XscaH8SaPvA&ab_channel=WhatisiSwiftUI%3F)
+
+    📹 [SwiftUI Text Field with 24 custom modifiers](https://www.youtube.com/watch?v=VrVyJ0jVCmg&t=68s&ab_channel=WhatisiSwiftUI%3F)
+
+    📹 [Apple Pay button in SwiftUI](https://www.youtube.com/watch?v=v9ORJkchGNQ&t=65s&ab_channel=WhatisiSwiftUI%3F)
