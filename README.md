@@ -229,3 +229,11 @@
 39. 💻 [AR MultiPendulum - AR app using SwiftUI for touchscreen interface](https://github.com/philipturner/ar-multipendulum)
 
 40. 💻 [ARHeadsetKit - High-level AR framework for replicating Hololens, using SwiftUI instead of Storyboard](https://github.com/philipturner/ARHeadsetKit)
+
+41. 📹 [Full SwiftUI Bootcamp from Nick (Swiftful Thinking](https://www.youtube.com/c/SwiftfulThinking)
+
+    📹 [Beginner Level](https://www.youtube.com/playlist?list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO)
+
+    📹 [Intermediate Level](https://www.youtube.com/playlist?list=PLwvDm4Vfkdphbc3bgy_LpLRQ9DDfFGcFu)
+    
+    📹 [Advanced Level](https://www.youtube.com/playlist?list=PLwvDm4Vfkdphc1LLLjCaEd87BEg07M97y)
