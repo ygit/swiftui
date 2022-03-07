@@ -169,15 +169,13 @@
 
 26. 📖 [SwiftUI: Getting Started By RayWenderlich](https://www.raywenderlich.com/3715234-swiftui-getting-started)
 
-27. 📖 [Fucking SwiftUI:A curated list of questions and answers about SwiftUI](https://fuckingswiftui.com/)
+27. 📖 [Fucking SwiftUI: A curated list of questions and answers about SwiftUI](https://fuckingswiftui.com/)
 
-28. 📖 [SwiftUIHub:Resources for swiftUI](https://swiftuihub.com/)
+28. 💻 [SwiftUI Sliders](https://github.com/spacenation/swiftui-sliders)
 
-29. 💻 [SwiftUI Sliders](https://github.com/SwiftUIExtensions/Sliders)
+29. 💻 [SwiftUI Grid](https://github.com/spacenation/swiftui-grid)
 
-30. 💻 [SwiftUI Grid](https://github.com/spacenation/swiftui-grid)
-
-31. [NSScreencast - Free SwiftUI Videos](https://nsscreencast.com/episodes/free#episodes)
+30. [NSScreencast - Free SwiftUI Videos](https://nsscreencast.com/episodes/free#episodes)
 
     📹 [Hello, SwiftUI!](https://nsscreencast.com/episodes/396-hello-swift-ui)
 
@@ -188,9 +186,9 @@
     📹 [SwiftUI Gestures](https://nsscreencast.com/episodes/400-swiftui-gestures)
     
     
-32. 💻 [SwiftUIX provides an extensive suite of components, extensions and utilities to complement the Standard Library.](https://github.com/SwiftUIX/SwiftUIX)
+31. 💻 [SwiftUIX provides an extensive suite of components, extensions and utilities to complement the Standard Library.](https://github.com/SwiftUIX/SwiftUIX)
 
-33. Frameworks
+32. Frameworks
     * 🌍 Networking
     
     [Hover an async Combine supported networking library](https://github.com/onurhuseyincantay/Hover)
@@ -204,16 +202,16 @@
     
     [KeyboardShortcuts — User-customizable global keyboard shortcuts for your macOS app](https://github.com/sindresorhus/KeyboardShortcuts)
     
-34. 📹 [Your First iOS and SwiftUI App - Ray Wenderlich](https://www.raywenderlich.com/4919757-your-first-ios-and-swiftui-app)
+33. 📹 [Your First iOS and SwiftUI App - Ray Wenderlich](https://www.raywenderlich.com/4919757-your-first-ios-and-swiftui-app)
 
-35. 💻 [SVG to SwiftUI Shape Converter](https://github.com/quassummanus/SVG-to-SwiftUI)
+34. 💻 [SVG to SwiftUI Shape Converter](https://github.com/quassummanus/SVG-to-SwiftUI)
 
-36. 💻 [A Demo App for SwiftUI System Components & Interactions based on iOS 14, macOS Big Sur, watchOS 7, and tvOS 14](https://github.com/jordansinger/SwiftUI-Kit)
+35. 💻 [A Demo App for SwiftUI System Components & Interactions based on iOS 14, macOS Big Sur, watchOS 7, and tvOS 14](https://github.com/jordansinger/SwiftUI-Kit)
 
-37. 💻 [SSToastMessage - A library to show Popup, Toast, Alert or Floating Message.](https://github.com/SimformSolutionsPvtLtd/SSToastMessage) 
+36. 💻 [SSToastMessage - A library to show Popup, Toast, Alert or Floating Message.](https://github.com/SimformSolutionsPvtLtd/SSToastMessage) 
 
 
-38. [*What is* **i***SwiftUI?*](https://www.youtube.com/channel/UCNgIepTzLt3o0knf8-bEhRg)
+37. [*What is* **i***SwiftUI?*](https://www.youtube.com/channel/UCNgIepTzLt3o0knf8-bEhRg)
 
     📹 [How to format phone numbers in SwiftUI](https://www.youtube.com/channel/UCNgIepTzLt3o0knf8-bEhRg)
 
@@ -226,11 +224,11 @@
     📹 [Apple Pay button in SwiftUI](https://www.youtube.com/watch?v=v9ORJkchGNQ&t=65s&ab_channel=WhatisiSwiftUI%3F)
     
     
-39. 💻 [AR MultiPendulum - AR app using SwiftUI for touchscreen interface](https://github.com/philipturner/ar-multipendulum)
+38. 💻 [AR MultiPendulum - AR app using SwiftUI for touchscreen interface](https://github.com/philipturner/ar-multipendulum)
 
-40. 💻 [ARHeadsetKit - High-level AR framework for replicating Hololens, using SwiftUI instead of Storyboard](https://github.com/philipturner/ARHeadsetKit)
+39. 💻 [ARHeadsetKit - High-level AR framework for replicating Hololens, using SwiftUI instead of Storyboard](https://github.com/philipturner/ARHeadsetKit)
 
-41. 📹 [Full SwiftUI Bootcamp from Nick (Swiftful Thinking](https://www.youtube.com/c/SwiftfulThinking)
+40. 📹 [Full SwiftUI Bootcamp from Nick (Swiftful Thinking)](https://www.youtube.com/c/SwiftfulThinking)
 
     📹 [Beginner Level](https://www.youtube.com/playlist?list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO)
 
