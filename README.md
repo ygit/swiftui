@@ -238,6 +238,9 @@
     
     📹 [Advanced Level](https://www.youtube.com/playlist?list=PLwvDm4Vfkdphc1LLLjCaEd87BEg07M97y)
     
+    📹 [Concurrency - Intermediate Level](https://www.youtube.com/watch?v=p6q1RmYUsNU&list=PLwvDm4Vfkdphr2Dl4sY4rS9PLzPdyi8PM&ab_channel=SwiftfulThinking)
+    
+    
 41. 📖 [Using Vision with SwiftUI](https://medium.com/swlh/on-device-text-recognition-on-ios-with-swiftui-dd499b9eec0b)
 
 42. 📖 [Using CoreML with SwiftUI](https://instamentor.com/articles/object-recognition-with-coreml-vision-and-swiftui-on-ios)
