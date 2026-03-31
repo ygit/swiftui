@@ -244,3 +244,5 @@
 41. 📖 [Using Vision with SwiftUI](https://medium.com/swlh/on-device-text-recognition-on-ios-with-swiftui-dd499b9eec0b)
 
 42. 📖 [Using CoreML with SwiftUI](https://instamentor.com/articles/object-recognition-with-coreml-vision-and-swiftui-on-ios)
+
+43. 📖 [Swift Student Challenge Resources](https://github.com/alyboii/swift-student-challenge-resources) - Curated SwiftUI tutorials, WWDC sessions, concurrency, accessibility, and storytelling guides for Apple's Swift Student Challenge — organized by topic and level.
