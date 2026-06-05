@@ -245,3 +245,5 @@
 42. 📖 [Using CoreML with SwiftUI](https://instamentor.com/articles/object-recognition-with-coreml-vision-and-swiftui-on-ios)
 
 43. 📖 [Swift Student Challenge Resources](https://github.com/alyboii/swift-student-challenge-resources) - Curated SwiftUI tutorials, WWDC sessions, concurrency, accessibility, and storytelling guides for Apple's Swift Student Challenge — organized by topic and level.
+
+44. 💻 [HealthSync](https://github.com/megabyte0x/healthykit) - SwiftUI app for [syncing Apple Health data to a private backend API](https://web-megabytes-projects.vercel.app/apple-health-app-sync).
