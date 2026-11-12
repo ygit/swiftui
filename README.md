@@ -245,3 +245,7 @@
 42. 📖 [Using CoreML with SwiftUI](https://instamentor.com/articles/object-recognition-with-coreml-vision-and-swiftui-on-ios)
 
 43. 📖 [Swift Student Challenge Resources](https://github.com/alyboii/swift-student-challenge-resources) - Curated SwiftUI tutorials, WWDC sessions, concurrency, accessibility, and storytelling guides for Apple's Swift Student Challenge — organized by topic and level.
+
+44. 💻 [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Unified daily productivity heads-up display for macOS and iPadOS with a 24-hour day dial, triage signals, and calendar integration built with SwiftUI.
+
+45. 💻 [Waybill](https://github.com/Yvsleyen00941/Waybill) - Tactile 3D logistics idle diorama game built with RealityKit and SwiftUI.
