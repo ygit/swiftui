@@ -249,3 +249,5 @@
 44. 💻 [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Unified daily productivity heads-up display for macOS and iPadOS with a 24-hour day dial, triage signals, and calendar integration built with SwiftUI.
 
 45. 💻 [Waybill](https://github.com/Yvsleyen00941/Waybill) - Tactile 3D logistics idle diorama game built with RealityKit and SwiftUI.
+
+46. 💻 [MacOSCleaner](https://github.com/AlexTkDev/MacOSCleaner) - Native macOS cleaner and app uninstaller built with Swift 6 and SwiftUI for macOS 26 (Liquid Glass navigation rail, Reduce Motion / Reduce Transparency support, 14 languages including Arabic RTL), with a Privacy Inspector for TCC permissions. Apple Silicon only; source-available (GPLv3 + Commons Clause).
