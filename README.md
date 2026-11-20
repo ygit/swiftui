@@ -251,3 +251,5 @@
 45. 💻 [Waybill](https://github.com/Yvsleyen00941/Waybill) - Tactile 3D logistics idle diorama game built with RealityKit and SwiftUI.
 
 46. 💻 [MacOSCleaner](https://github.com/AlexTkDev/MacOSCleaner) - Native macOS cleaner and app uninstaller built with Swift 6 and SwiftUI for macOS 26 (Liquid Glass navigation rail, Reduce Motion / Reduce Transparency support, 14 languages including Arabic RTL), with a Privacy Inspector for TCC permissions. Apple Silicon only; source-available (GPLv3 + Commons Clause).
+
+47. 💻 [Oh My Android](https://github.com/ateymoori/oh-my-android) - Free, MIT-licensed native macOS app built with SwiftUI for macOS 26: a control panel for the Android Emulator (dark mode, font scale, Layout Inspector, GPS mock) with a built-in MCP server.
