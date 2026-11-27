@@ -255,3 +255,5 @@
 47. 💻 [OhMyShot](https://github.com/MMFoundation/OhMyShot) - Native macOS menu bar app for screenshots, screen recording, annotation, pins and on-device OCR, built with Swift 6, SwiftUI and AppKit for macOS 26. Apple Silicon only; GPL-3.0.
 
 48. 💻 [StackConnect](https://github.com/r1b2ns/stack-connect) - iPhone and iPad app for App Store Connect and Firebase built with SwiftUI and SwiftData: versions, metadata, TestFlight, reviews, certificates and Remote Config, with keys in the Keychain and no server. MIT.
+
+49. 💻 [CineNotch](https://github.com/NikOneZ1/cinenotch) - Native macOS app that docks Safari and Chrome Picture in Picture into the MacBook notch, built with SwiftUI. GPL-3.0.
