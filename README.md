@@ -253,3 +253,5 @@
 46. 💻 [MacOSCleaner](https://github.com/AlexTkDev/MacOSCleaner) - Native macOS cleaner and app uninstaller built with Swift 6 and SwiftUI for macOS 26 (Liquid Glass navigation rail, Reduce Motion / Reduce Transparency support, 14 languages including Arabic RTL), with a Privacy Inspector for TCC permissions. Apple Silicon only; source-available (GPLv3 + Commons Clause).
 
 47. 💻 [OhMyShot](https://github.com/MMFoundation/OhMyShot) - Native macOS menu bar app for screenshots, screen recording, annotation, pins and on-device OCR, built with Swift 6, SwiftUI and AppKit for macOS 26. Apple Silicon only; GPL-3.0.
+
+48. 💻 [StackConnect](https://github.com/r1b2ns/stack-connect) - iPhone and iPad app for App Store Connect and Firebase built with SwiftUI and SwiftData: versions, metadata, TestFlight, reviews, certificates and Remote Config, with keys in the Keychain and no server. MIT.
